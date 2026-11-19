@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class dah{
+public class array awal koma{
   public static void main(String[] args) {
 Scanner sc = new Scanner(System.in);
  int[] nilai = new int[5];
