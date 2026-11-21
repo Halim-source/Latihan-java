@@ -8,7 +8,7 @@ public class soal2 {
 
     if (suhu < 0||suhu>50) {
       System.out.println("Suhu tidak valid");
-    } else if (suhu>=0&&suhu <= 10) {
+    } else if (suhu <= 10) {
       System.out.println("Suhu dingin");
     } else if (suhu <= 20) {
       System.out.println("Suhu normal");
